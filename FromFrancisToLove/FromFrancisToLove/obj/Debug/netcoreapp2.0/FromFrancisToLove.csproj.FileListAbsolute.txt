@@ -1,0 +1,11 @@
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\bin\Debug\netcoreapp2.0\FromFrancisToLove.deps.json
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\bin\Debug\netcoreapp2.0\FromFrancisToLove.runtimeconfig.json
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\bin\Debug\netcoreapp2.0\FromFrancisToLove.runtimeconfig.dev.json
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\bin\Debug\netcoreapp2.0\FromFrancisToLove.dll
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\bin\Debug\netcoreapp2.0\FromFrancisToLove.pdb
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.csprojAssemblyReference.cache
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.AssemblyInfoInputs.cache
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.AssemblyInfo.cs
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.dll
+C:\Users\alex_\Source\Repos\The100QuacksForFrancis\FromFrancisToLove\FromFrancisToLove\obj\Debug\netcoreapp2.0\FromFrancisToLove.pdb
